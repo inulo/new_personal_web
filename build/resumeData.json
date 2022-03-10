@@ -4,7 +4,7 @@
     "description":"I build applications that scale and deliver the best possible UX across different browsers.I put my focus on cost efficiency, scalability and maintainability.",
     "image":"profilepic.png",
     "bio":"I’m a enthusiastic front-end developer based out of Samora Correia, Santarem Portugal , and I create fun, innovative, accessible, and fast websites. I try to leave every bit of code I touch more readable, modular, performant and accessible than I found it.On a team, I tend to help bring out a clearer sense of purpose and encourage clearer communication, resulting in better team results and a higher sense of satisfaction for all involved.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"",
     "email": "",
     "phone": "",
     "github":"",
@@ -36,33 +36,33 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
         "school":"University?",
-        "degree":"",
+        "degree":"Bio",
         "graduated":"404",
         "description":""
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Code_Cademy",
+        "degree":"Front-End Developer",
+        "graduated":"2020-2021",
+        "description":""
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Freelancer",
+        "title":"Bio",
+        "years":"March 2020 - Present",
+        "description":""
       },
       {
-        "company":"Super Cool Studio",
+        "company":"Freelancer",
         "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "years":"2021 - Present",
+        "description":""
       }
     ],
     "skills":[
