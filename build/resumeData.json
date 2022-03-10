@@ -100,31 +100,31 @@
     "projects": [
       {
         "title":"Game",
-        "category":"My Travel Blog for my post-university travels",
+        "category":"",
         "image":"01.png",
         "url":"https://chore-door-bot.netlify.app"
       },
       {
         "title":"Music Shop",
-        "category":"(offline now) A fighting gear company I started",
+        "category":"",
         "image":"02.png",
         "url":"https://musicon-shop.netlify.app"
       },
       {
         "title":"Image engine",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "category":"",
         "image":"03.png",
         "url":"https://image-engine.netlify.app"
       },
       {
         "title":"API base web app",
-        "category":"A React based resume website template",
+        "category":"",
         "image":"06.png",
         "url":"https://wanderlust-api.netlify.app"
       },
       {
-        "title":"Corporete website",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "title":"Corp website",
+        "category":"",
         "image":"05.png",
         "url":"https://iscargo.netlify.app"
       }
