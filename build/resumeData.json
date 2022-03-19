@@ -111,13 +111,13 @@
         "url":"https://musicon-shop.netlify.app"
       },
       {
-        "title":"Image engine",
+        "title":"Pixabay API base web app",
         "category":"",
         "image":"03.png",
         "url":"https://image-engine.netlify.app"
       },
       {
-        "title":"API base web app",
+        "title":"Open Weather API base web app",
         "category":"",
         "image":"06.png",
         "url":"https://wanderlust-api.netlify.app"
