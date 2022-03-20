@@ -1,6 +1,6 @@
 {
   "main": {
-    "name":"Hey, my name is Veselin",
+    "name":"Hey, my name != Manuel",
     "description":"I build applications that scale and deliver the best possible UX across different browsers.I put my focus on cost efficiency, scalability and maintainability.",
     "image":"profilepic.png",
     "bio":"I’m a enthusiastic front-end developer based out of Samora Correia, Santarem Portugal , and I create fun, innovative, accessible, and fast websites. I try to leave every bit of code I touch more readable, modular, performant and accessible than I found it.On a team, I tend to help bring out a clearer sense of purpose and encourage clearer communication, resulting in better team results and a higher sense of satisfaction for all involved.",
@@ -15,7 +15,7 @@
       "state":"",
       "zip": ""
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "http://www.kanchev.me",
     "resumedownload":"https://r-s-v.netlify.app/",
     "social":[
       {
@@ -121,12 +121,6 @@
         "category":"",
         "image":"06.png",
         "url":"https://wanderlust-api.netlify.app"
-      },
-      {
-        "title":"Corp website",
-        "category":"",
-        "image":"05.png",
-        "url":"https://iscargo.netlify.app"
       }
     ]
   }
