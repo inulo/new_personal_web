@@ -1,9 +1,9 @@
 {
   "main": {
-    "name":"Hey, my name != Manuel",
+    "name":"Hey, my name Veselin",
     "description":"I build applications that scale and deliver the best possible UX across different browsers.I put my focus on cost efficiency, scalability and maintainability.",
     "image":"profilepic.png",
-    "bio":"I’m a enthusiastic front-end developer based out of Samora Correia, Santarem Portugal , and I create fun, innovative, accessible, and fast websites. I try to leave every bit of code I touch more readable, modular, performant and accessible than I found it.On a team, I tend to help bring out a clearer sense of purpose and encourage clearer communication, resulting in better team results and a higher sense of satisfaction for all involved.",
+    "bio":"I’m a enthusiastic front-end developer based out of Samora Correia, Santarem Portugal , and I create semantic, fun, innovative, accessible, and fast websites. I try to leave every bit of code I touch more readable, modular, performant and accessible than I found it.On a team, I tend to help bring out a clearer sense of purpose and encourage clearer communication, resulting in better team results and a higher sense of satisfaction for all involved.",
     "contactmessage":"",
     "email": "",
     "phone": "",
@@ -40,13 +40,13 @@
     "education":[
       {
         "school":"University?",
-        "degree":"Bio",
-        "graduated":"404",
+        "degree":"Computer Science Degree",
+        "graduated":"404 Not Found",
         "description":""
       },
       {
         "school":"Code_Cademy",
-        "degree":"Front-End Developer",
+        "degree":"Front-End Engineer Career Path",
         "graduated":"2020-2021",
         "description":""
       }
@@ -55,12 +55,12 @@
       {
         "company":"Freelancer",
         "title":"Bio",
-        "years":"March 2020 - Present",
+        "years":"March 2021 - Present",
         "description":""
       },
       {
         "company":"Freelancer",
-        "title":"Junior bug fixer",
+        "title":"Bug Hunter",
         "years":"2021 - Present",
         "description":""
       }
@@ -99,16 +99,18 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Game",
+        "title":"ToDo app",
         "category":"",
         "image":"01.png",
-        "url":"https://chore-door-bot.netlify.app"
+        "url":"https://www.ehoje.fun/"
+        
       },
       {
         "title":"Music Shop",
         "category":"",
         "image":"02.png",
         "url":"https://musicon-shop.netlify.app"
+        
       },
       {
         "title":"Pixabay API web app",
