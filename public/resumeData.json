@@ -1,0 +1,129 @@
+{
+  "main": {
+    "name":"Hey my name it's Veselin",
+    "description":"I build applications that scale and deliver the best possible UX across different browsers.I put my focus on cost efficiency, scalability and maintainability.",
+    "image":"profilepic.png",
+    "bio":"I’m a enthusiastic front-end developer based out of Samora Correia, Santarem Portugal , and I create semantic, fun, innovative, accessible, and fast websites. I try to leave every bit of code I touch more readable, modular, performant and accessible than I found it.On a team, I tend to help bring out a clearer sense of purpose and encourage clearer communication, resulting in better team results and a higher sense of satisfaction for all involved.",
+    "contactmessage":"",
+    "email": "",
+    "phone": "",
+    "github":"",
+    "project":"",
+    "address":{
+      "street":"",
+      "city":"",
+      "state":"",
+      "zip": ""
+    },
+    "website": "http://www.kanchev.me",
+    "resumedownload":"https://r-s-v.netlify.app/",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/vess.kanchev/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/veselin-s-kanchev-72610792/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/inulo",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"University?",
+        "degree":"Computer Science Degree",
+        "graduated":"404 Not Found",
+        "description":""
+      },
+      {
+        "school":"Code_Cademy",
+        "degree":"Front-End Engineer Career Path",
+        "graduated":"2020-2021",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Freelancer",
+        "title":"Bio",
+        "years":"March 2021 - Present",
+        "description":""
+      },
+      {
+        "company":"Freelancer",
+        "title":"Bug Hunter",
+        "years":"2021 - Present",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML",
+        "level":"75%"
+      },
+      {
+        "name":"CSS",
+        "level":"75%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"50%"
+      },
+      {
+        "name":"React",
+        "level":"50%"
+      },
+      {
+        "name":"Svelte",
+        "level":"50%"
+      },
+      {
+        "name":"SQL",
+        "level":"80%"
+      },
+      {
+        "name":"git",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"ToDo app",
+        "category":"",
+        "image":"01.png",
+        "url":"https://www.ehoje.fun/"
+        
+      },
+      {
+        "title":"Music Shop",
+        "category":"",
+        "image":"02.png",
+        "url":"https://musicon-shop.netlify.app"
+        
+      },
+      {
+        "title":"Pixabay API web app",
+        "category":"",
+        "image":"03.png",
+        "url":"https://image-engine.netlify.app"
+      },
+      {
+        "title":"Open Weather API web app",
+        "category":"",
+        "image":"06.png",
+        "url":"https://wanderlust-api.netlify.app"
+      }
+    ]
+  }
+}
