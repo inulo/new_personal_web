@@ -208,25 +208,25 @@ ul#nav li.current a { color: #fff; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background-color: #000 !important;
+   background-color: #fff !important;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
-   background: url(../images/clip-top.png) no-repeat top;
-   
+   /* background: url(../images/clip-top.png) no-repeat top;
+    */
 }
 
-#about a, #about a:visited  { color: #fff; }
-#about a:hover, #about a:focus { color: #fff; }
+#about a, #about a:visited  { color: #000; }
+#about a:hover, #about a:focus { color: #000; }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
-   color: #fff;
+   color: #000;
    margin-bottom: 12px;
 }
 #about p {
    line-height: 30px;
-   color: #fff;
+   color: #000;
 }
 #about .profile-pic {
    position: relative;
@@ -263,16 +263,16 @@ ul#nav li.current a { color: #fff; }
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background-color: #000 !important;
+   background-color: #FFFFFF !important;
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
-   background: url(../images/clip-bottom.png) no-repeat bottom;
+   /* background: url(../images/clip-bottom.png) no-repeat bottom; */
    
 }
 
-#resume a, #resume a:visited  { color: #fff; }
-#resume a:hover, #resume a:focus { color: #fff; }
+#resume a, #resume a:visited  { color: #000; }
+#resume a:hover, #resume a:focus { color: #000; }
 
 #resume h1 {
    font: 18px/24px 'Dosis', sans-serif;
@@ -293,11 +293,11 @@ ul#nav li.current a { color: #fff; }
 .education, .work {
    margin-bottom: 48px;
    padding-bottom: 24px;
-   border-bottom: 1px solid #fff;
+   border-bottom: 1px solid #000;
 }
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
-   color: #fff;
+   color: #000;
    margin-bottom: 18px;
    margin-top: 9px;
 }
@@ -333,7 +333,7 @@ ul#nav li.current a { color: #fff; }
 }
 .bars li em {
 	font: 15px 'Dosis', sans-serif;
-   color: #fff;
+   color: #000;
 	text-transform: uppercase;
    letter-spacing: 2px;
 	font-weight: normal;
@@ -446,10 +446,10 @@ ul#nav li.current a { color: #fff; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: #0F0F0F;
+   background: #FFFFFF;
    padding-top: 90px;
    padding-bottom: 60px;
-   background: url(../images/clip-top.png) no-repeat top;
+   /* background: url(../images/clip-top.png) no-repeat top; */
 }
 #portfolio h1 {
    font: 15px/24px 'Dosis', sans-serif;
@@ -507,7 +507,7 @@ ul#nav li.current a { color: #fff; }
 	-o-transition: opacity 0.3s ease-in-out;
 	transition: opacity 0.3s ease-in-out;
 
-   background: url(../images/overlay-bg.png) repeat;
+   /* background: url(../images/overlay-bg.png) repeat; */
 }
 .portfolio-item .item-wrap .link-icon {
    display: block;
@@ -675,7 +675,7 @@ call-to-action .button {
 #call-to-action .button:hover,
 #call-to-action .button:active {
    background: #FFFFFF;
-   color: #0D0D0D;
+   color: #808080;
 }
 #call-to-action p span {
 	font-family: 'Dosis', sans-serif;
@@ -980,7 +980,7 @@ footer {
    text-align: center;
    position: relative;
    background-color: #000 !important;
-   background: url(../images/clip-top.png) no-repeat top;
+   /* background: url(../images/clip-top.png) no-repeat top; */
 }
 
 footer a, footer a:visited { color: #525252; }
