@@ -203,6 +203,7 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #about {
+<<<<<<< HEAD
   background-color: #fff !important;
   padding-top: 96px;
   padding-bottom: 66px;
@@ -228,6 +229,27 @@ ul#nav li.current a {
 #about p {
   line-height: 30px;
   color: #000;
+=======
+   background-color: #fff !important;
+   padding-top: 96px;
+   padding-bottom: 66px;
+   overflow: hidden;
+   /* background: url(../images/clip-top.png) no-repeat top;
+    */
+}
+
+#about a, #about a:visited  { color: #000; }
+#about a:hover, #about a:focus { color: #000; }
+
+#about h2 {
+   font: 22px/30px 'opensans-bold', sans-serif;
+   color: #000;
+   margin-bottom: 12px;
+}
+#about p {
+   line-height: 30px;
+   color: #000;
+>>>>>>> ecf63cdac390f0812f5011e824e7cb311710d2f4
 }
 #about .profile-pic {
   position: relative;
@@ -265,6 +287,7 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #resume {
+<<<<<<< HEAD
   background-color: #ffffff !important;
   padding-top: 90px;
   padding-bottom: 72px;
@@ -280,6 +303,18 @@ ul#nav li.current a {
 #resume a:focus {
   color: #000;
 }
+=======
+   background-color: #FFFFFF !important;
+   padding-top: 90px;
+   padding-bottom: 72px;
+   overflow: hidden;
+   /* background: url(../images/clip-bottom.png) no-repeat bottom; */
+   
+}
+
+#resume a, #resume a:visited  { color: #000; }
+#resume a:hover, #resume a:focus { color: #000; }
+>>>>>>> ecf63cdac390f0812f5011e824e7cb311710d2f4
 
 #resume h1 {
   font: 18px/24px 'Dosis', sans-serif;
@@ -301,6 +336,7 @@ ul#nav li.current a {
   padding-right: 10%;
 }
 
+<<<<<<< HEAD
 .education,
 .work {
   margin-bottom: 48px;
@@ -312,6 +348,18 @@ ul#nav li.current a {
   color: #000;
   margin-bottom: 18px;
   margin-top: 9px;
+=======
+.education, .work {
+   margin-bottom: 48px;
+   padding-bottom: 24px;
+   border-bottom: 1px solid #000;
+}
+#resume .info {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   color: #000;
+   margin-bottom: 18px;
+   margin-top: 9px;
+>>>>>>> ecf63cdac390f0812f5011e824e7cb311710d2f4
 }
 #resume .info span {
   margin-right: 5px;
@@ -344,6 +392,7 @@ ul#nav li.current a {
   border-radius: 0px;
 }
 .bars li em {
+<<<<<<< HEAD
   font: 15px 'Dosis', sans-serif;
   color: #000;
   text-transform: uppercase;
@@ -351,6 +400,15 @@ ul#nav li.current a {
   font-weight: normal;
   position: relative;
   top: -36px;
+=======
+	font: 15px 'Dosis', sans-serif;
+   color: #000;
+	text-transform: uppercase;
+   letter-spacing: 2px;
+	font-weight: normal;
+   position: relative;
+	top: -36px;
+>>>>>>> ecf63cdac390f0812f5011e824e7cb311710d2f4
 }
 .bar-expand {
   position: absolute;
@@ -458,10 +516,17 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #portfolio {
+<<<<<<< HEAD
   background: #ffffff;
   padding-top: 90px;
   padding-bottom: 60px;
   /* background: url(../images/clip-top.png) no-repeat top; */
+=======
+   background: #FFFFFF;
+   padding-top: 90px;
+   padding-bottom: 60px;
+   /* background: url(../images/clip-top.png) no-repeat top; */
+>>>>>>> ecf63cdac390f0812f5011e824e7cb311710d2f4
 }
 #portfolio h1 {
   font: 15px/24px 'Dosis', sans-serif;
@@ -519,7 +584,11 @@ ul#nav li.current a {
   -o-transition: opacity 0.3s ease-in-out;
   transition: opacity 0.3s ease-in-out;
 
+<<<<<<< HEAD
   /* background: url(../images/overlay-bg.png) repeat; */
+=======
+   /* background: url(../images/overlay-bg.png) repeat; */
+>>>>>>> ecf63cdac390f0812f5011e824e7cb311710d2f4
 }
 .portfolio-item .item-wrap .link-icon {
   display: block;
@@ -695,8 +764,13 @@ call-to-action .button {
 */
 #call-to-action .button:hover,
 #call-to-action .button:active {
+<<<<<<< HEAD
   background: #ffffff;
   color: #808080;
+=======
+   background: #FFFFFF;
+   color: #808080;
+>>>>>>> ecf63cdac390f0812f5011e824e7cb311710d2f4
 }
 #call-to-action p span {
   font-family: 'Dosis', sans-serif;
@@ -1042,6 +1116,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 footer {
+<<<<<<< HEAD
   padding-top: 16rem;
   margin-bottom: auto;
   font-size: 14px;
@@ -1049,6 +1124,15 @@ footer {
   position: relative;
   background-color: #000 !important;
   /* background: url(../images/clip-top.png) no-repeat top; */
+=======
+   padding-top: 16rem;
+   margin-bottom: auto;
+   font-size: 14px;
+   text-align: center;
+   position: relative;
+   background-color: #000 !important;
+   /* background: url(../images/clip-top.png) no-repeat top; */
+>>>>>>> ecf63cdac390f0812f5011e824e7cb311710d2f4
 }
 
 footer a,
